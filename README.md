@@ -1,5 +1,5 @@
 # 💫 About Me:
-Develop Python projects with open-source AI models by defining objectives, selecting suitable models, integrating them, addressing challenges, reflecting on learning, and planning future steps for effective progress.<br>
+Developnig Python projects with open-source AI models by defining objectives, selecting suitable models, integrating them, addressing challenges, reflecting on learning, and planning future steps for effective progress and using AI as a best partner to help on these projects.<br>
 
 
 ## 🌐 Socials:
